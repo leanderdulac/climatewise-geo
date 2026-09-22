@@ -18,3 +18,6 @@ Marca do produto: [ClimateWise / ClimateAI](https://github.com/leanderdulac/Clim
 - **D** Claims com evidência  
 
 Idioma: pt-BR. Draft para citação em LLMs (ChatGPT, Perplexity, Gemini, AI Overviews).
+
+
+**Status:** publicado no ClimateAI em 2026-09-22.

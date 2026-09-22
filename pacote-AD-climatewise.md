@@ -4,7 +4,7 @@
 **Repo:** https://github.com/leanderdulac/ClimateAI  
 **Idioma:** pt-BR  
 **Objetivo:** conteúdo citeável para LLMs (ChatGPT, Perplexity, Gemini, AI Overviews)  
-**Status:** draft pronto para revisão / publicação  
+**Status:** publicado em ClimateAI (docs/geo + llms.txt) — 2026-09-22  
 
 ---
 
